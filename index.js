@@ -1,0 +1,1 @@
+"const express = require('express');\nconst app = express();\nconst port = 3000;\n\napp.get('/', (req, res) => {\n  res.send('Hello World!');\n});\n\napp.listen(port, () => {\n  console.log(`Example app listening at http://localhost:${port}`)\n});" 
