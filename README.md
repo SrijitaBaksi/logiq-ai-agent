@@ -21,6 +21,14 @@ Just tell it what you want (e.g., "Create a simple Node.js server"), and the age
 
 ---
 
+## 🎥 Demo
+
+Logiq AI Agent demo video:- 
+
+https://github.com/user-attachments/assets/5befde62-d8f1-442f-850b-d56f126f2e95
+
+
+
 ## ⚙️ Features
 
 ✨ **Natural language to shell commands**  
